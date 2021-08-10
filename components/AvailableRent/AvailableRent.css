@@ -1,0 +1,19 @@
+.AvailableRent{
+    width: 500px;
+    margin-left: 20px;
+    background-color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width: 1px;
+    border-radius: 4px;
+    border-style: solid;
+    }
+    .btn3{
+        margin-left: 170px;  
+        background-color: red;
+    }
+    .btn4{
+         
+        background-color: green;
+    }
